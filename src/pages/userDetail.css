@@ -1,0 +1,15 @@
+.userContainer {
+    border: thin solid;
+}
+
+.link {
+    margin-left: 10px;
+    border: thin solid;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.text-muted {
+    color: #666;
+}
